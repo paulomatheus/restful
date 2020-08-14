@@ -1,8 +1,8 @@
 # Restful
-Série de exercícios emvolvendo Java e REST
+Série de exercícios envolvendo Java e REST
 
 ## Divisões
-Cada exercício possui se nome no arquivo e o commit explica qual o número correspondente
+Cada exercício possui seu nome no arquivo. O commit explica qual é o número correspondente.
 
 ### Tecnologias utilizadas
 - REST
