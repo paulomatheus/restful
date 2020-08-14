@@ -13,7 +13,4 @@ Cada exercício possui se nome no arquivo e o commit explica qual o número corr
 - Postman
 
 #### API endpoints
-- Foram implementados:
-´´´
-GET POST PUT DELETE
-´´´
+- Foram implementados: GET, POST, PUT, DELETE
