@@ -1,0 +1,66 @@
+!SESSION 2020-08-10 09:54:38.686 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.8
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/paulomatheus/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/paulomatheus/eclipse-workspace/Udemy SpringBoot -product org.eclipse.epp.package.jee.product -keyring /Users/paulomatheus/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-08-10 09:54:45.852
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2020-08-10 09:54:49.125
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-08-10 09:54:49.125
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7ec5d3e1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3b235623,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.resources 4 77 2020-08-10 10:28:46.290
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2020-08-10 10:28:46.290
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-08-10 10:28:46.290
+!MESSAGE /Users/paulomatheus/eclipse-workspace/Udemy SpringBoot/01 Scaffold Eclipse overlaps the location of another project: '01 Scaffold Eclipse'
+
+!ENTRY org.eclipse.core.resources 4 77 2020-08-10 10:30:29.245
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2020-08-10 10:30:29.246
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-08-10 10:30:29.246
+!MESSAGE /Users/paulomatheus/eclipse-workspace/Udemy SpringBoot/01 Scaffold Eclipse overlaps the location of another project: '01 Scaffold Eclipse'
+
+!ENTRY org.eclipse.core.resources 4 77 2020-08-10 10:31:50.377
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2020-08-10 10:31:50.377
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-08-10 10:31:50.377
+!MESSAGE /Users/paulomatheus/eclipse-workspace/Udemy SpringBoot/01 Scaffold Eclipse overlaps the location of another project: '01 Scaffold Eclipse'
+
+!ENTRY org.eclipse.core.resources 4 77 2020-08-10 10:33:27.691
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2020-08-10 10:33:27.692
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-08-10 10:33:27.692
+!MESSAGE /Users/paulomatheus/eclipse-workspace/Udemy SpringBoot/01 Scaffold Eclipse overlaps the location of another project: '01 Scaffold Eclipse'
+
+!ENTRY org.eclipse.core.resources 4 77 2020-08-10 10:35:55.058
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2020-08-10 10:35:55.059
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-08-10 10:35:55.059
+!MESSAGE /Users/paulomatheus/eclipse-workspace/Udemy SpringBoot/01 Scaffold Eclipse overlaps the location of another project: '01 Scaffold Eclipse'
