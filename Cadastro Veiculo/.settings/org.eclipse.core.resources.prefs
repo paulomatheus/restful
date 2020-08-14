@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UFT-8
+encoding//src/main/java/br/com/paulomatheus/StartupProject.java=UTF-8
+encoding//src/main/java/br/com/paulomatheus/controller/VeiculoController.java=UTF-8
+encoding//src/main/java/br/com/paulomatheus/exception=UTF-8
+encoding//src/main/java/br/com/paulomatheus/model/Veiculo.java=UTF-8
+encoding//src/main/java/br/com/paulomatheus/services/VeiculoServices.java=UTF-8
+encoding//src/main/resources=UFT-8
+encoding//src/test/java=UFT-8
+encoding//src/test/resources=UFT-8
+encoding/<project>=UFT-8
