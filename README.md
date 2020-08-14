@@ -15,5 +15,5 @@ Cada exercício possui se nome no arquivo e o commit explica qual o número corr
 #### API endpoints
 - Foram implementados:
 ´´´
-GET, POST, PUT, DELETE
+GET POST PUT DELETE
 ´´´
